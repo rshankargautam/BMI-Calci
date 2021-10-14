@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="weight_array">
+        <item>@string/kg</item>
+        <item>@string/pnd</item>
+    </string-array>
+    <string-array name="height_array">
+        <item>@string/cm</item>
+        <item>@string/mt</item>
+        <item>@string/ft</item>
+        <item>@string/in</item>
+    </string-array>
+</resources>

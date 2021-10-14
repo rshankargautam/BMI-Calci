@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BMI Cal</string>
+    <string name="selected_string">Selected string:</string>
+
+    <string name="kg">Kilograms</string>
+    <string name="pnd">Pounds</string>
+
+    <string name="cm">Centimeter</string>
+    <string name="mt">Meter</string>
+    <string name="ft">Feet</string>
+    <string name="in">Inches</string>
+</resources>
